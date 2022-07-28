@@ -1,6 +1,6 @@
 # mycode (Lab 6: Revision Control with Git and GitHub)
 
-Attending a Python Basics training course.  Working on Lab 6 exericise: exploring Software Control Management (SCM) platforms.
+Attending a Python Basics training course.  Working on Lab 6 exericise: exploring Software Control Management (SCM) platforms.  Looking forward to learning how to version control projects with git.
 
 ## Getting Started
 
