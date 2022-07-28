@@ -1,6 +1,3 @@
-# mycode
-Tracking my code
-
 # mycode (Lab 6: Revision Control with Git and GitHub)
 
 Attending a Python Basics training course.  Working on Lab 6 exericise: exploring Software Control Management (SCM) platforms.
