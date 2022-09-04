@@ -1,0 +1,5 @@
+Asia:50.5
+North America:30.2
+Europe:11
+Others:4.5
+The rest of the world:3.9
