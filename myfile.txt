@@ -1,0 +1,16 @@
+''' Python Basics
+    Lab 19: Getting dir(obj) help() and pydoc
+    myfile.txt | kdsdv '''
+
+View the available built-in methods to use with the dir() function while in the Python shell. Methods can be described using the help() function.
+
+1. Create a file-object called x that has the attributes of myfile.txt, in write-mode.
+	>>> x = open("myfile.txt", "w")
+
+2. Run dir() on the fileobject.
+	>>> dir(x)
+
+3. Read the help() page on the read() method.
+	>>> help(x.read)
+
+4. Press q to quit the help page. Notice some methods are surrounded by underscores? Those are built in methods.
